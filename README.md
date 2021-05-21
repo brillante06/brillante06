@@ -1,4 +1,10 @@
 ### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fbrillante06&count_bg=%23FF7F00&title_bg=%23555555&icon=react.svg&icon_color=%23AEA4A4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+![brillante06's GitHub stats](https://github-readme-stats.vercel.app/api?username=brillante06&show_icons=true&theme=vision-friendly-dark)
+
+
 
 <!--
 **brillante06/brillante06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
